@@ -20,7 +20,7 @@
 	       (:file "scalar")
                (:file "stringify")))
 
-
+#+nil
 (asdf:defsystem #:nyaml/test
   :description "Tests for NYAML"
   :author "Jason Miller <aidenn0@geocities.com>"
